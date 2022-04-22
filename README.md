@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 / Grid.js Starter
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+Look at the Nuxt3 [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+
+Look at the Grid.js [grid.js documentation](hhttps://gridjs.io/docs/indexttps://v3.nuxtjs.org) to learn more.
 
 ## Setup
 
