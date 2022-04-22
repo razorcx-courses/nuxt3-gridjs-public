@@ -1,5 +1,7 @@
 # Nuxt 3 / Grid.js Starter
 
+Live site at [nuxt3-gridjs](https://nuxt3-gridjs.netlify.app/).
+
 Look at the Nuxt3 [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 Look at the Grid.js [grid.js documentation](https://gridjs.io/docs/index) to learn more.
